@@ -1,6 +1,6 @@
 # Smart-Credit-Bracket-System
-Author: Chai Ke Rou
-Date: April 2023
+### Author: Chai Ke Rou
+### Date: April 2023
 
 The aim of this report is to investigate, visualize data, and build machine learning models for data collected by a global finance company. The datasets include basic bank details and credit-related information. This project involves exploratory analysis to predict credit scores, minimizing manual efforts in segregating people into credit score brackets.
 
